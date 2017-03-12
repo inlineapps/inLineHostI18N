@@ -1,0 +1,12 @@
+{
+  "company_name": "樂子",
+  "guestform": {
+    "caption": {
+      "number_of_adults": "大人",
+      "number_of_high_chairs": "兒童椅",
+      "number_of_strollers": "嬰兒車"
+    }
+  },
+  "icon_babychair": "https://inlineapps.github.io/inLineHostI18N/images/ic_queue_highchair.png",
+  "icon_stroller": "https://inlineapps.github.io/inLineHostI18N/images/ic_queue_stroller.png"
+}
